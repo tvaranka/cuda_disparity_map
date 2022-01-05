@@ -1,0 +1,3 @@
+/media/tuomas/Uusi asema/Opiskelu jutut/Projects/Depth estimation/Multiprocessor programming/c_multi_thread/build/CMakeFiles/rebuild_cache.dir
+/media/tuomas/Uusi asema/Opiskelu jutut/Projects/Depth estimation/Multiprocessor programming/c_multi_thread/build/CMakeFiles/edit_cache.dir
+/media/tuomas/Uusi asema/Opiskelu jutut/Projects/Depth estimation/Multiprocessor programming/c_multi_thread/build/CMakeFiles/stereo.dir
